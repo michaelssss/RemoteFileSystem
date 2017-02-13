@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RemoteFileSystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemoteFileSystem</output-path>
+    <root id="archive" name="RemoteFileSystem.war">
+      <element id="artifact" artifact-name="RemoteFileSystem:war exploded" />
+    </root>
+  </artifact>
+</component>
